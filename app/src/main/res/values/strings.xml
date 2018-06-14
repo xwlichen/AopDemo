@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AopDemo</string>
+
+    <string name="setting">设置</string>
+    <string name="resume">确定</string>
+    <string name="cancel">取消</string>
+    <string name="title_dialog">注意</string>
+    <string name="message_permission_always_failed">请在权限管理中设置:\n\n%1$s</string>
+    <string name="message_setting_comeback">用户设置界面返回</string>
+    <string name="message_permission_rationale">请设置以下权限:\n\n%1$s</string>
+</resources>
